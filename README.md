@@ -1,6 +1,4 @@
- -------------------------------------
- - Real Programmers Don't Eat Quiche -
- -------------------------------------
+# Real Programmers Don't Eat Quiche
 
 * Real Programmers don't eat quiche. They like twinkies, coke and palate
 scorching Szechwan food.
