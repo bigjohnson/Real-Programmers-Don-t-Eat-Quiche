@@ -103,5 +103,3 @@ understand this one)
 .    Real Programmers don't bring brown bag lunches. If the vending machine
 sells it, thet eat it. If the vending maching doesn't sell it, they don't eat
 it. Vending machines don't sell quiche.
-
-
