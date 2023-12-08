@@ -72,7 +72,7 @@ course they are the chief programmer.
 mail networks.
 
 * Real Programmers have no use for managers. Managers are a necessary evil.
-They exist only to deal with personal bozos, bean counters, senoir planners,
+They exist only to deal with personal bozos, bean counters, senior planners,
 and other mental defectives.
 
 * Real Programmers score floating point arithmetic. The decimal point was
