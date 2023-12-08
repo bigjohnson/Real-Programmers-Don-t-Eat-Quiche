@@ -99,5 +99,5 @@ despise petty restrictions. (Ed. note: You are a real programmer if you
 understand this one)
 
 * Real Programmers don't bring brown bag lunches. If the vending machine
-sells it, thet eat it. If the vending maching doesn't sell it, they don't eat
+sells it, they eat it. If the vending machine doesn't sell it, they don't eat
 it. Vending machines don't sell quiche.
